@@ -24,9 +24,5 @@ Start Coding é uma iniciativa que tem como objetivo inserir mulheres no setor d
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/0dTUNs8tpqAC5d71m8SGU0?si=1bPUarw0SDucrMhRvoafNw&dl_branch=1)
 
-
-![](./tenor.gif)
-
-
-
+***********
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
