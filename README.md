@@ -4,7 +4,7 @@
 
 ## Sobre Nós
 
-Start Coding é uma iniciativa que tem como objetivo inserir mulheres no setor da tecnologia e apoiar as que já estão, empoderando-as e oferecendo mais oportunidades de conhecimento.
+Elas no código é uma iniciativa que tem como objetivo inserir mulheres no setor da tecnologia e apoiar as que já estão, empoderando-as e oferecendo mais oportunidades de conhecimento.
 
 ## O que nós fazemos
 
